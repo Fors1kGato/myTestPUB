@@ -1,2 +1,3 @@
-clear-Host
-1123
+function qwe($p){
+    write-host $p
+}
